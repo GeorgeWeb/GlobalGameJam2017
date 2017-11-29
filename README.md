@@ -1,2 +1,3 @@
 # GlobalGameJam2017
-Refined version of the game I made for GGJ17
+## Game title: Skarabadabber
+### Game page: https://georgi.itch.io/skarabadabber
